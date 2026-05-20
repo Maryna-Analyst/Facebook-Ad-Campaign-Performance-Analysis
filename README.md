@@ -1,7 +1,5 @@
 # Facebook-Ad-Campaign-Performance-Analysis
 
-# Facebook Ad Campaigns Performance Analysis (Python)
-
 ## 📌 Project Overview
 This project focuses on the comprehensive analysis of Facebook advertising campaigns using Python. The primary goal is to evaluate the performance of 11 different advertising strategies, identify key factors driving revenue (Total Value), analyze seasonality, and discover optimization opportunities for marketing budgets.
 
