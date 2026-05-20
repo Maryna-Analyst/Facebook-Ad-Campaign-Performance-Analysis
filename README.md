@@ -53,4 +53,3 @@ This project focuses on the comprehensive analysis of Facebook advertising campa
 
 ## 🚀 How to Run
 1. Open the repository and view the static file `Facebook_Ad_Campaigns_Performance_Analysis.ipynb`.
-2. To run interactively, click the **Open in Colab** badge at the top of the notebook or clone this repository and open it via Jupyter Notebook.
